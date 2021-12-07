@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-twitter-component/static/css/main.b5f61823.chunk.css",
+    "main.js": "/react-twitter-component/static/js/main.36db65d5.chunk.js",
+    "main.js.map": "/react-twitter-component/static/js/main.36db65d5.chunk.js.map",
+    "runtime-main.js": "/react-twitter-component/static/js/runtime-main.aa40733c.js",
+    "runtime-main.js.map": "/react-twitter-component/static/js/runtime-main.aa40733c.js.map",
+    "static/js/2.da304245.chunk.js": "/react-twitter-component/static/js/2.da304245.chunk.js",
+    "static/js/2.da304245.chunk.js.map": "/react-twitter-component/static/js/2.da304245.chunk.js.map",
+    "static/js/3.b6a1e086.chunk.js": "/react-twitter-component/static/js/3.b6a1e086.chunk.js",
+    "static/js/3.b6a1e086.chunk.js.map": "/react-twitter-component/static/js/3.b6a1e086.chunk.js.map",
+    "index.html": "/react-twitter-component/index.html",
+    "static/css/main.b5f61823.chunk.css.map": "/react-twitter-component/static/css/main.b5f61823.chunk.css.map",
+    "static/js/2.da304245.chunk.js.LICENSE.txt": "/react-twitter-component/static/js/2.da304245.chunk.js.LICENSE.txt",
+    "static/media/Nebula.ffaa3807.jpeg": "/react-twitter-component/static/media/Nebula.ffaa3807.jpeg",
+    "static/media/hubble.60bba08a.jpeg": "/react-twitter-component/static/media/hubble.60bba08a.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa40733c.js",
+    "static/js/2.da304245.chunk.js",
+    "static/css/main.b5f61823.chunk.css",
+    "static/js/main.36db65d5.chunk.js"
+  ]
+}
