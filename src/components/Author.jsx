@@ -3,7 +3,7 @@ import './Author.css';
 
 const Author = ({name, nickname, photo}) => {
     return <div className='tweet-header'>
-                <img className='user-photo' src={photo} />
+                <img className='user-photo' src={photo} alt='' />
                 <div className='name-container'>
                     <p className='user-name'>{name}</p>
                     <p className='user-nickname'>{nickname}</p>
